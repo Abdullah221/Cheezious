@@ -1,0 +1,142 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+}
+.flexAlignCenter {
+    display: flex;
+    align-items: center;
+}
+.jsCenter {
+    justify-content: center;
+}
+.jsSpaceBetween {
+    justify-content: space-between;
+}
+.top {
+    width: 100vw;
+    height: 9vh;
+}
+header {
+    position: fixed;
+}
+nav {
+    position: sticky;
+    top: 10vh;
+}
+.top img {
+    height: 9vh;
+}
+.innerLine {
+    width: 90vw;
+}
+.location-d {
+    line-height: 1em;
+}
+.cartOption {
+    padding: 0px 10px;
+    border-left: 1px solid #DC3645;
+}
+.inlineBlock {
+    display: inline-block;
+}
+.slider {
+    width: 95vw;
+    margin-top: 2vh auto;
+}
+.sliderBtn{
+    height: 7vh;
+    width: 2vw;
+    margin: 2vh 1vw;
+}
+.sliderImg img {
+    width: 90vw;
+}
+nav ul {
+    text-align: center;
+    margin: 10px auto 4vh auto;
+}
+nav ul li {
+    padding: 10px 15px;
+    font-weight: 500;
+}
+nav ul li:hover {
+    background-color: #FFCC05;
+}
+nav ul a {
+    text-decoration: none;
+}
+/* Border Radius */
+.br10 {
+    border-radius: 10px;
+}
+.br15 {
+    border-radius: 15px;
+}
+.br20 {
+    border-radius: 20px;
+}
+.br25 {
+    border-radius: 25px;
+}
+.br30 {
+    border-radius: 30px;
+}
+/* Color Scheme */
+    /* Background Color */
+    .bg-gray {
+        background-color: #E5E5E5;
+    }
+    .bg-yellow {
+        background-color: #FFCC05;
+    }
+    .bg-black {
+        background-color: #1D1D1D;
+    }
+    .bg-red {
+        background-color: #DC3645;
+    }
+    /* Fore Ground Color */
+    .color-gray {
+        color: #E5E5E5;
+    }
+    .color-yellow {
+        color: #FFCC05;
+    }
+    .color-black {
+        color: #1D1D1D;
+    }
+    .color-red {
+        color: #DC3645;
+    }
+/*  Font Size  */
+.fs-05 {
+    font-size: 0.5em;
+}
+.fs-06 {
+    font-size: 0.6em;
+}
+.fs-07 {
+    font-size: 0.7em;
+}
+.fs-08 {
+    font-size: 0.8em;
+}
+.fs-09 {
+    font-size: 0.9em;
+}
+.fs-1 {
+    font-size: 1em;
+}
+.fs-1-5 {
+    font-size: 1.5em;
+}
+.fs-2 {
+    font-size: 2em;
+}
+.fs-2-5 {
+    font-size: 2.5em;
+}
+.fs-3 {
+    font-size: 3em;
+}
